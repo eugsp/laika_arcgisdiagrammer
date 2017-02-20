@@ -4,4 +4,4 @@ python:
 install:
   - pip install Flask
 script: 
-  - python hello.py
+  - echo "Current TravisCI is not been used, just set"
